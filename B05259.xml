@@ -1,0 +1,140 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proclamation against papists. Edinburgh, the twentieth day of March, 1689.</title>
+            <author>Scotland. Parliament. Committee of Estates.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05259</idno>
+            <idno type="STC">Wing S1311</idno>
+            <idno type="STC">ESTC R184004</idno>
+            <idno type="EEBO-CITATION">52529205</idno>
+            <idno type="OCLC">ocm 52529205</idno>
+            <idno type="VID">178900</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05259)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 178900)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2774:39)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proclamation against papists. Edinburgh, the twentieth day of March, 1689.</title>
+                  <author>Scotland. Parliament. Committee of Estates.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>Printed in the year 1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Initial letter.</note>
+                  <note>Signed at end: Extracted out of the records of the meeting of Estates, by me Ro. Mackenzie, Cls.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholics --  Legal status, laws, etc. --  Scotland --  Early works to 1800.</term>
+               <term>Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:178900:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 20 -->
+            <head>A PROCLAMATION, Againſt Papiſts.</head>
+            <opener>
+               <dateline>Edinburgh, <date>the Twentieth day of <hi>March,</hi> 1689.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>HE Meeting of Eſtates of this Kingdom, Conſidering the Danger and Hazard the Religion, Peace, and Quiet of the Kingdom is in, by the Growth, and Increaſe of <hi>Popery,</hi> and <hi>Papiſts</hi> of late, Occaſioned by the Imploying them in Places of greateſt Truſt within the Kingdom; And continuing them in Places, and Offices Civil and Military, and allowing them to Exerciſe the ſame als freely in all reſpects, as Proteſtants, againſt the ſtanding Laws of the Kingdom. Have thought fit to Diſcharge, and hereby Diſcharges, all Papiſts from Exerci<g ref="char:EOLhyphen"/>ſing any Civil or Military Offices within this Kingdom, and from Exerciſing as Sheriffs of Shires, Stewarts of Stewartries, Bailies of Regalities, Magiſtrats of Burghs, Juſtices of Pe<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce, Collonels, Lieutenant-Collonels, Captains of Horſe, and all other Officers in the Militia, or carrying Arms therein, under the Pains and Penalties contained in the Acts of Parliament. And for the further Security of the Publict Peace and Quiet, they Require and Command all Papiſts within the Kingdom, of whatſoever Rank or Condition, to deliver up their Arms (excepting Gentlemen, their ordinary wearing Swords) to the Sheriffs, Stewarts, Lords, or Bailies of Regalities, and Magiſtrats of Burghs, within whoſe Ju<g ref="char:EOLhyphen"/>riſdiction they live, <hi>viz.</hi> Thoſe on the South ſide of the Water of <hi>Esk,</hi> within ſix days after Publication hereof, at the Mercat Croſs of the Head-Burgh of the Shire: And theſe on the North-ſide of the ſaid Water, within ten days after the ſame. Certifying ſuch as ſhall be found to have any Arms after the days foreſaid <hi>reſpectivè,</hi> They ſhall be proceeded againſt with all rigour, for their Contempt and Diſobedience: And Ordains and Requires the ſaids Sheriffs, and othe Magiſirats forſaid, or in caſe of their negligence, the Collonels or Lieutenant-Collonels of the Militia Foot, or Captains of Horſe, to ſearch for, and ſeize upon any Arms which they ſhall be Informed to be kept up undelivered, belonging to Papiſts, in any Houſes or Places ſuſpected, and to ſecure the ſame, and to return an exact Account of their diligence, betwixt and the dayes following, <hi>viz.</hi> Theſe on this ſide of <hi>Esk,</hi> betwixt and the tenth day of <hi>April</hi> next, and theſe be-north the ſame, betwixt and the twentieth day of the ſame Moneth of <hi>April,</hi> as they will be anſwerable on their higheſt Peril. And the ſaid Eſtates do Command and Charge all Papiſts, not being Inhabitants of the Town of <hi>Edinburgh,</hi> or any place adjacent thereto, to remove ten Miles from the ſaid Town, or at leaſt, to their reſpective Dwelling-Houſes, within fourty eight hours after publication hereof, under all higheſt pains; And Grants Order and Warrand to Heraulds, Macers, or Meſſengers at Arms, Sheriffs in that part, to paſs to the Mercat-Croſs of <hi>Edi<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>burgh,</hi> and remanent Mercat-Croſſes of the ſeveral Head-Burghs of the Shires, and make publica<g ref="char:EOLhyphen"/>tion hereof in the uſual manner, that none may pretend ignorance.  Extracted out of the Records of the Meeting of Eſtates, by me</p>
+            <closer>
+               <signed>
+                  <hi>RO. MACKENȜIE,</hi> Cls.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>EDINBURGH, Printed in the Year 1689.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
